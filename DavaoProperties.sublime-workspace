@@ -287,6 +287,62 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "app/views/layout/master.blade.php",
+			"settings":
+			{
+				"buffer_size": 30078,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/config/database.php",
+			"settings":
+			{
+				"buffer_size": 3353,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/storage/logs/laravel.log",
+			"settings":
+			{
+				"buffer_size": 4801,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/templates/header.blade.php",
+			"settings":
+			{
+				"buffer_size": 2163,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/routes.php",
+			"settings":
+			{
+				"buffer_size": 1105,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/hello.php",
+			"settings":
+			{
+				"buffer_size": 7679,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/wamp/www/realhomes/index.html",
+			"settings":
+			{
+				"buffer_size": 39423,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "Packages/User/Python.sublime-build",
 	"command_palette":
@@ -317,6 +373,13 @@
 	},
 	"file_history":
 	[
+		"/C/wamp/www/davaoproperties/app/views/templates/footer.blade.php",
+		"/C/wamp/www/davaoproperties/app/config/database.php",
+		"/C/wamp/www/davaoproperties/app/models/User.php",
+		"/C/wamp/www/davaoproperties/app/config/app.php",
+		"/C/wamp/www/davaoproperties/app/config/auth.php",
+		"/C/wamp/www/davaoproperties/app/config/mail.php",
+		"/C/wamp/www/davaoproperties/composer.json",
 		"/C/wamp/www/Givily/composer.json",
 		"/C/wamp/www/Givily-Test/app/storage/logs/log-apache2handler-2014-07-23.txt",
 		"/C/wamp/www/Givily-Test/app/config/database.php",
@@ -437,14 +500,7 @@
 		"/C/wamp/www/21html/portfolio-single.html",
 		"/C/wamp/www/21html/index.html",
 		"/C/wamp/www/21html/assets/css/main.css",
-		"/C/wamp/www/twitter-bootstrap-wizard/index.html",
-		"/C/wamp/www/MarsTheme/elements.html",
-		"/C/wamp/www/Givily/app/views/layouts/request.blade.php",
-		"/C/wamp/www/MarsTheme/assets/js/for_pages/forms.js",
-		"/C/wamp/www/MarsTheme/assets/js/for_pages/elements.js",
-		"/G/www/Jarvis/JarvisAdmin/wizard.html",
-		"/C/wamp/www/BBT2013/core/view/products.php",
-		"/C/wamp/www/laravel-role/app/controllers/UserController.php"
+		"/C/wamp/www/twitter-bootstrap-wizard/index.html"
 	],
 	"find":
 	{
@@ -630,8 +686,207 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "app/views/layout/master.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30078,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1212,
+								1212
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/config/database.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3353,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2036,
+								2036
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 225.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/storage/logs/laravel.log",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4801,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3997,
+								3997
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/views/templates/header.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2163,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1624,
+								1624
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/routes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1105,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								456,
+								456
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/views/hello.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7679,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								467,
+								467
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/wamp/www/realhomes/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 39423,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								39423
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],

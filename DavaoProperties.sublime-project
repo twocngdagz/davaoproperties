@@ -4,6 +4,14 @@
 		{
 			"follow_symlinks": true,
 			"path": "C:\\wamp\\www\\davaoproperties"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\wamp\\www\\realhomes"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\Users\\ROY\\Downloads\\sentir\\sentir\\1.0.0"
 		}
 	]
 }
