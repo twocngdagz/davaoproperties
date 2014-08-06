@@ -1,32 +1,3 @@
-<!-- BEGIN FOOTER -->
-				<footer>
-					&copy; 2014 <a href="#fakelink">Your company</a><br />
-					Design by <a href="http://isohdesign.com/" target="_blank">ids</a>. Purchase this item at <a href="http://goo.gl/wSCjxD" target="_blank">Themeforest</a>
-				</footer>
-				<!-- END FOOTER -->
-				
-				
-			</div><!-- /.page-content -->
-		</div><!-- /.wrapper -->
-		<!-- END PAGE CONTENT -->
-		
-		
-	
-		
-		
-		
-		<!--
-		===========================================================
-		END PAGE
-		===========================================================
-		-->
-		
-		<!--
-		===========================================================
-		Placed at the end of the document so the pages load faster
-		===========================================================
-		-->
-		<!-- MAIN JAVASRCIPT (REQUIRED ALL PAGE)-->
 		<script src={{URL::asset('js/jquery.min.js')}}></script>
 		<script src={{URL::asset('js/bootstrap.min.js')}}></script>
 		<script src={{URL::asset('js/retina/retina.min.js')}}></script>
@@ -68,8 +39,8 @@
 		<script src={{URL::asset('js/flot-chart/jquery.flot.js')}}></script>
 		<script src={{URL::asset('js/flot-chart/jquery.flot.tooltip.js')}}></script>
 		<script src={{URL::asset('js/flot-chart/jquery.flot.resize.js')}}></script>
-		<script src={{URL::asset('js/flot-chart/jquery.flot.selection.js'></script>
-		<script src={{URL::asset('js/flot-chart/jquery.flot.stack.js'))}}></script>
+		<script src={{URL::asset('js/flot-chart/jquery.flot.selection.js')}}></script>
+		<script src={{URL::asset('js/flot-chart/jquery.flot.stack.js')}}></script>
 		<script src={{URL::asset('js/flot-chart/jquery.flot.time.js')}}></script>
 
 		<!-- MORRIS JS -->

@@ -15,9 +15,22 @@ class HomeController extends BaseController {
 	|
 	*/
 
-	public function showWelcome()
+	public function index()
 	{
-		return View::make('hello');
+		if (Confide::user()) {
+			return Redirect::action('HomeController@dashboard');
+		} else {
+			return Redirect::action('UsersController@login');
+		}
+	}
+
+	public function dashboard()
+	{
+		if (Confide::user()) {
+			return View::make('home.dashboard');
+		} else {
+			return Redirect::action('UsersController@login');
+		}
 	}
 
 }

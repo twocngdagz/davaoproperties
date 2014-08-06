@@ -10,6 +10,12 @@
 class UsersController extends Controller
 {
 
+    public function show()
+    {
+        $users = User::all();
+        return View::make('user.show')->with('users', $users);
+    }
+
     /**
      * Displays the form for account creation
      *
@@ -62,7 +68,7 @@ class UsersController extends Controller
         if (Confide::user()) {
             return Redirect::to('/');
         } else {
-            return View::make(Config::get('confide::login_form'));
+            return View::make('user.login');
         }
     }
 
